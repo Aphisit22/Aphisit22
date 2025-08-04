@@ -5,7 +5,7 @@ Teacher & Front End Devloper & UX/UI Designer
 ------------------
 
 * 🌍  I'm based in Thailand
-* ✉️  You can contact me at [zcv2175@gmailmcom]
+* ✉️  You can contact me at [zcv2175@gmail.com](mailto:zcv2175@gmail.com)
 * 🚀  I'm currently working on [Nakhonpathom Vocational College](http://nc.ac.th)
 * 🧠  I'm learning React, TailwindCSS, HTML, CSS, php, bootstrap
 * 🤝  I'm open to collaborating on AI
